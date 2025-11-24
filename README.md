@@ -1,4 +1,4 @@
-# onramp-creadits
+# Onramp Creadits Setup
 
 This repository contains a template and automation scripts designed to streamline the process of linking a user's Google Cloud project with a billing account. It automates the setup of a new Google Cloud project (or uses an existing one) and enables billing, which is a common prerequisite for many codelabs and workshops.
 
